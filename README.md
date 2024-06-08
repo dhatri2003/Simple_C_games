@@ -6,7 +6,7 @@ The project offers two classic games: Tic-tac-toe and the Dino Game. Developed u
 The code consists of three main parts: the main function, the Dino Game, and the Tic-tac-toe game. It utilizes standard C libraries and functions for game logic and user interaction.
 
 ### Code Output
-- User can select between the Dino Game and Tic-tac-toe.
+ User can select between the Dino Game and Tic-tac-toe.
 - **Dino Game**:
   - Dino jumps on space bar press and terminates upon obstacle collision.
 - **Tic-tac-toe**:
